@@ -14,13 +14,7 @@ Run all tests from the repository root:
 mvn test
 ```
 
-Run only the current module:
-
-```bash
-mvn -pl a2a-protocol test
-```
-
-## First Example
+## Patterns
 
 See the module documentation:
 
