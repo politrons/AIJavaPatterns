@@ -39,12 +39,6 @@ Terminal 2:
 mvn quarkus:dev -Dquarkus.profile=gmail
 ```
 
-From the repository root, add `-pl a2a-protocol`:
-
-```bash
-mvn -pl a2a-protocol quarkus:dev -Dquarkus.profile=filesystem
-```
-
 ## Demo
 
 Send the request to the first available agent and let it decide whether to delegate:
