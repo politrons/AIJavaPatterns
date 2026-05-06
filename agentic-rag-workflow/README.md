@@ -82,6 +82,12 @@ mvn exec:java \
   -Dexec.args="--question 'What are the steps in the RAG runtime flow?'"
 ```
 
+```bash
+mvn exec:java \
+  -Dexec.mainClass=com.example.agenticrag.DemoClient \
+  -Dexec.args="--question 'How this project use GroundedAnswerComposer'"
+```
+
 By default, the demo indexes the curated document at `src/main/resources/knowledge/rag-workflow.md`.
 
 Use a custom Ollama model:
