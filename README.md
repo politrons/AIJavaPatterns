@@ -6,6 +6,7 @@ Java examples and patterns for AI applications.
 
 - `a2a-protocol`: A2A Java SDK + Ollama PoC with two local agents that route and delegate requests.
 - `agentic-rag-workflow`: Ollama-backed RAG workflow with retrieval, grounded prompts, and citations.
+- `kafka-llm-agent`: Ollama-backed Kafka consumer/producer agent that enriches support-ticket events.
 
 ## Build
 
@@ -21,3 +22,4 @@ See the module documentation:
 
 - [a2a-protocol/README.md](a2a-protocol/README.md)
 - [agentic-rag-workflow/README.md](agentic-rag-workflow/README.md)
+- [kafka-llm-agent/README.md](kafka-llm-agent/README.md)

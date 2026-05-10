@@ -1,0 +1,8 @@
+{
+  "ticketId": "TCK-1001",
+  "customerId": "CUST-42",
+  "channel": "EMAIL",
+  "subject": "Payment charged twice",
+  "body": "I was charged twice for the same order and nobody replied to my previous message. Please refund the duplicate payment today.",
+  "createdAt": "2026-05-09T08:30:00Z"
+}

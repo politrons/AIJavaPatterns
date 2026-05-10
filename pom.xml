@@ -15,6 +15,7 @@
     <modules>
         <module>a2a-protocol</module>
         <module>agentic-rag-workflow</module>
+        <module>kafka-llm-agent</module>
     </modules>
 
     <properties>
